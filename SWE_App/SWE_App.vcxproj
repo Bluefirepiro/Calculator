@@ -142,9 +142,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CalculatorApp.cpp" />
+    <ClCompile Include="CalculatorProcessor.cpp" />
     <ClCompile Include="Window.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CalculatorProcessor.h" />
     <ClInclude Include="CalculatorApp.h" />
     <ClInclude Include="Window.h" />
   </ItemGroup>
