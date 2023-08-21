@@ -146,15 +146,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ButtonFactory.cpp" />
-    <ClCompile Include="CalculatorApp.cpp" />
     <ClCompile Include="CalculatorProcessor.cpp" />
-    <ClCompile Include="Window.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ButtonFactory.h" />
-    <ClInclude Include="CalculatorApp.h" />
     <ClInclude Include="CalculatorProcessor.h" />
-    <ClInclude Include="Window.h" />
   </ItemGroup>
   <ItemGroup>
     <Object Include="x64\Debug\ButtonFactory.obj" />
